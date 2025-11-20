@@ -1,4 +1,3 @@
-
 # Exp 5 Experimental verification of frequency response of Digital fiber optic link
 # Digital Fiber Optic Link Analysis (600nm)
 
@@ -67,7 +66,7 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 |    5KHZ        |        36V                   |    7.2       |  17.14     |
 |    10KHZ       |        37V                   |    7.4       |  17.38     |
 |    20KHZ       |        37V                   |    7.4       |  17.38     |
-|    50KHZ       |        27V                   |    5.4       |  14.64     |
+|    50KHZ       |        27V                   |    5.4       |  17.38     |
 |    100KHZ      |        27V                   |    5.4       |  14.64     |
 |    250KHZ      |        2.7V                  |    2.54      |  8.09      |
 

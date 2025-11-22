@@ -74,9 +74,13 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 
 ## MODEL GRAPH
 
-![WhatsApp Image 2025-11-20 at 19 23 44_76c136c4](https://github.com/user-attachments/assets/21071ede-5a49-4300-bb23-a69f5bb00594)
+<img width="902" height="446" alt="image" src="https://github.com/user-attachments/assets/f446b8a7-3328-4aa1-a885-6a7c73494c60" />
 
 ---
+
+## OUTPUT GRAPH
+
+![WhatsApp Image 2025-11-20 at 19 23 44_76c136c4](https://github.com/user-attachments/assets/21071ede-5a49-4300-bb23-a69f5bb00594)
 
 ## RESULT
 Thus , the relationship between input and received signal of a 600nm fiber optic cable using digital link are verified.
